@@ -32,4 +32,4 @@
 </ul> 
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongdb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongDB)](https://skillicons.dev)
