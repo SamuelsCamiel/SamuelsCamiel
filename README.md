@@ -12,7 +12,7 @@
 </ul> 
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,figma,tailwind,js,ts)](https://skillicons.dev)
 
 <div id="user-content-toc">
 <ul align="left" style="list-style: none;">
@@ -33,3 +33,11 @@
 </div>
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+
+<div id="user-content-toc">
+<ul align="left" style="list-style: none;">
+<summary>
+<h2 align="left">Framework</h2>
+</summary> 
+</ul> 
+</div>
