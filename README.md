@@ -5,7 +5,7 @@
 <h2 align="left">Here are some Coding languages that i use</h2>
 
 <div id="user-content-toc">
-<ul align="center" style="list-style: none;">
+<ul align="left" style="list-style: none;">
 <summary>
 <h2 align="left">Frontend languages</h2>
 </summary>
