@@ -8,6 +8,14 @@
 [![Top Langs](https://github-readme-stats-ashy-seven.vercel.app/api/top-langs?username=SamuelsCamiel&theme=transparent&count_private=true&layout=donut&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 [![SamuelCamiels's GitHub stats](https://github-readme-stats-ashy-seven.vercel.app/api?username=SamuelsCamiel&show_icons=true&theme=transparent&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[SamuelsCamiel]/[SamuelsCamiel]/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[SamuelsCamiel]/[SamuelsCamiel]/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[SamuelsCamiel]/[SamuelsCamiel]/output/pacman-contribution-graph.svg">
+</picture>
+
+_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
+
 <h2 align="left">$$\color{blue}Here \space are \space some \space Coding \space languages \space and \space other \space things \space i \space use$$</h2>
 
 <div id="user-content-toc">
