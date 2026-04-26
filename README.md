@@ -14,8 +14,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SamuelsCamiel/SamuelsCamiel/output/pacman-contribution-graph.svg">
 </picture>
 
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
-
 <h2 align="left">$$\color{blue}Here \space are \space some \space Coding \space languages \space and \space other \space things \space i \space use$$</h2>
 
 <div id="user-content-toc">
