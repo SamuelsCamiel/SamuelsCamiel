@@ -41,3 +41,5 @@
 </summary> 
 </ul> 
 </div>
+
+[![My Skills](https://skillicons.dev/icons?i=laravel,electron)](https://skillicons.dev)
