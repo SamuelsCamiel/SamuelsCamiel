@@ -1,6 +1,6 @@
 - $${\color{lightBlue}Hi \space there, \space my \space name \space is}$$ $${\color{blue}Camiel}$$
 - $${\color{lightBlue}Im \space interested \space in}$$ $${\color{blue}gamedev, \space webdesign, \space coding}$$ $${\color{lightBlue}and}$$ $${\color{blue}gaming}$$
-- $${\color{lightblue}hi }$$
+- $${\color{lightblue}u can reach me at samuelscamiel@gmail.com}$$
 
 [![Top Langs](https://github-readme-stats-ashy-seven.vercel.app/api/top-langs?username=SamuelsCamiel&theme=transparent&count_private=true&layout=donut&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 [![SamuelCamiels's GitHub stats](https://github-readme-stats-ashy-seven.vercel.app/api?username=SamuelsCamiel&show_icons=true&theme=transparent&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
