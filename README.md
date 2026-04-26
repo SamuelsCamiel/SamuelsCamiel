@@ -6,4 +6,5 @@
 
 ###
 
+<h2 align="left">Frontend languages</h2>
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts)](https://skillicons.dev)
