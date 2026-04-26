@@ -7,6 +7,29 @@
 <div id="user-content-toc">
 <ul align="left" style="list-style: none;">
 <summary>
-<h2 align="left">Frontend languages</h2> </summary> </ul> </div>
+<h2 align="left">Frontend languages</h2>
+</summary> 
+</ul> 
+</div>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts)](https://skillicons.dev)
+
+<div id="user-content-toc">
+<ul align="left" style="list-style: none;">
+<summary>
+<h2 align="left">Backend languages</h2>
+</summary> 
+</ul> 
+</div>
+
+[![My Skills](https://skillicons.dev/icons?i=php,nodejs)](https://skillicons.dev)
+
+<div id="user-content-toc">
+<ul align="left" style="list-style: none;">
+<summary>
+<h2 align="left">Database</h2>
+</summary> 
+</ul> 
+</div>
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongdb)](https://skillicons.dev)
