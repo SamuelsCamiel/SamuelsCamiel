@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 [![Top Langs](https://github-readme-stats-ashy-seven.vercel.app/api/top-langs?username=SamuelsCamiel&theme=tokyonight&count_private=true&layout=donut&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![SamuelCamiels's GitHub stats](https://github-readme-stats-ashy-seven.vercel.app/api?username=SamuelsCamiel&show_icons=true&theme=synthwave&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align="left">Here are some Coding languages and other things i use</h2>
 
