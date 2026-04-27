@@ -24,7 +24,7 @@
 </ul> 
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,npm,figma,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,npm,figma,wordpress)](https://skillicons.dev)
 
 <div id="user-content-toc">
 <ul align="left" style="list-style: none;">
