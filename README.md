@@ -44,7 +44,7 @@
 </ul> 
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,mongodb)](https://skillicons.dev)
 
 <div id="user-content-toc">
 <ul align="left" style="list-style: none;">
