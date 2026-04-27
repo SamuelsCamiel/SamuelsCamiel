@@ -1,7 +1,7 @@
-- $${\color{lightBlue}Hi \space there, \space my \space name \space is}$$ $${\color{blue}Camiel}$$
-- $${\color{lightBlue}Im \space interested \space in}$$ $${\color{blue}gamedev, \space webdesign, \space coding}$$ $${\color{lightBlue}and}$$ $${\color{blue}gaming}$$
-- $${\color{lightblue}you \space can \space reach \space me \space at}$$ samuelscamiel@gmail.com
-- $${\color{lightblue}you \space can \space find \space my \space portfolio \space at}$$ https://samuelscamiel.github.io
+- $${\color{blue}Hi \space there, \space my \space name \space is}$$ $${\color{darkblue}Camiel}$$
+- $${\color{blue}Im \space interested \space in}$$ $${\color{darkblue}gamedev, \space webdesign, \space coding}$$ $${\color{blue}and}$$ $${\color{darkblue}gaming}$$
+- $${\color{blue}you \space can \space reach \space me \space at}$$ samuelscamiel@gmail.com
+- $${\color{blue}you \space can \space find \space my \space portfolio \space at}$$ https://samuelscamiel.github.io
 
 
 
