@@ -1,5 +1,5 @@
-- $${\color{blue}Hi \space there, \space my \space name \space is}$$ $${\color{darkblue}Camiel}$$
-- $${\color{blue}Im \space interested \space in}$$ $${\color{darkblue}gamedev, \space webdesign, \space coding}$$ $${\color{blue}and}$$ $${\color{darkblue}gaming}$$
+- $${\color{blue}Hi \space there, \space my \space name \space is}$$ $${\color{#4651eb}Camiel}$$
+- $${\color{blue}Im \space interested \space in}$$ $${\color{#4651eb}gamedev, \space webdesign, \space coding}$$ $${\color{blue}and}$$ $${\color{#4651eb}gaming}$$
 - $${\color{blue}you \space can \space reach \space me \space at}$$ samuelscamiel@gmail.com
 - $${\color{blue}you \space can \space find \space my \space portfolio \space at}$$ https://samuelscamiel.github.io
 
